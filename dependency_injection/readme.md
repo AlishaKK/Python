@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/14e2a9eb-b510-458c-8861-2c04479608c1)
+
 ### What is dependency injection?
 Let’s see what the dependency injection is.
 

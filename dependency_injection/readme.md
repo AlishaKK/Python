@@ -26,4 +26,5 @@ How to implement the dependency injection?
 Objects do not create each other anymore. They provide a way to inject the dependencies instead.
 
 https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html
+
 https://youtu.be/8QZK0xMrsII?si=1dLNiKud0LBC2o8A

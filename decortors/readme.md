@@ -3,7 +3,8 @@ A decorator is like a wrapper that modifies or extends a function's behavior wit
 
 
 
-```Example
+
+
 # logging_decorator.py
 
 def log_decorator(func):
@@ -26,18 +27,8 @@ def greet(name):
 # Example usage
 add(3, 4)
 greet("Alisha")
-```
 
-### Output:
 
-```
-[LOG] Calling function: add
-[LOG] Arguments: (3, 4), Keyword Arguments: {}
-[LOG] add returned: 7
-[LOG] Calling function: greet
-[LOG] Arguments: ('Alisha',), Keyword Arguments: {}
-[LOG] greet returned: Hello, Alisha!
-```
 
 
 

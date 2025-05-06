@@ -13,5 +13,8 @@ Imagine you’re at a restaurant. The waiter (API) takes your order (request), b
 
 Similarly, when you search for a course on a website, you send a request through an API, which then checks the database and sends the result back to you.
 
+Documentation:
+https://www.geeksforgeeks.org/what-is-an-api/
+
 
 

@@ -45,6 +45,10 @@ https://www.geeksforgeeks.org/what-is-an-api/
 * **Abstracted:** Hides complexity.
 * **Enables Sharing:** Facilitates data and function sharing.
 * **Platform Independent:** Works across various environments.
+  
 
+**Monolithic:** One big application, everything together. Updating or scaling one part means dealing with the whole thing. If one part breaks, it can all break.
+
+**Microservices:** Many small, independent applications working together. Update or scale parts individually. If one breaks, the rest can often keep going. They talk to each other using APIs.
 
 

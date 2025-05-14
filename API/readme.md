@@ -88,3 +88,7 @@ if __name__ == '__main__':
     main()
 ```
 
+
+### What is an HTTP Status Code?
+
+![image](https://github.com/user-attachments/assets/ea60aa79-6686-48b0-86aa-8279ef32541e)

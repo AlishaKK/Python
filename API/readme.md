@@ -91,4 +91,7 @@ if __name__ == '__main__':
 
 ### What is an HTTP Status Code?
 
+https://careercenter.bauer.uh.edu/blog/2022/05/18/http-status-codes-why-are-they-important-for-search-engines/#:~:text=This%20makes%20it%20easy%20to%20identify%20and%20correct%20common%20website%20errors.
+
+
 ![image](https://github.com/user-attachments/assets/ea60aa79-6686-48b0-86aa-8279ef32541e)

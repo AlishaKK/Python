@@ -55,4 +55,8 @@ https://www.geeksforgeeks.org/what-is-an-api/
 ### Json:
 https://jsonformatter.org/
 
+### freeAPI
+
+https://api.freeapi.app/#/%F0%9F%93%A2%20Public%20APIs/getARandomJoke
+
 
